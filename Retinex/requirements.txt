@@ -1,0 +1,6 @@
+# Retinex图像增强算法项目依赖库
+# 安装命令: pip install -r requirements.txt
+
+numpy>=1.19.0
+opencv-python>=4.5.0
+PyQt5>=5.15.0
